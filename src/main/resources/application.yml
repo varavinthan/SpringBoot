@@ -1,0 +1,2 @@
+helloController:
+  msg: "Welcome message from YML Config"
